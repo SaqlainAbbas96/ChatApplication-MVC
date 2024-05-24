@@ -1,0 +1,13 @@
+Install-Package Npgsql.EntityFrameworkCore.PostgreSQL
+Install-Package Microsoft.EntityFrameworkCore.Design
+
+dotnet ef migrations add InitialCreate
+
+if error on below command : dotnet : Could not execute because the specified command or file was not found.
+command : dotnet ef migrations add InitialCreate
+then run
+command : dotnet tool update --global dotnet-ef
+dotnet add package Microsoft.EntityFrameworkCore.Design
+dotnet ~/.dotnet/tools/dotnet-ef migrations add InitialCreate
+
+dotnet ef database update

@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF276B9-0A23-4A5D-8711-D76F3EC69C89}|ChatApplication\\ChatApplication.csproj|d:\\gecbnv\\personalwork\\github\\chatapplication\\chatapplication\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF276B9-0A23-4A5D-8711-D76F3EC69C89}|ChatApplication\\ChatApplication.csproj|solutionrelative:chatapplication\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF276B9-0A23-4A5D-8711-D76F3EC69C89}|ChatApplication\\ChatApplication.csproj|d:\\gecbnv\\personalwork\\github\\chatapplication\\chatapplication\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF276B9-0A23-4A5D-8711-D76F3EC69C89}|ChatApplication\\ChatApplication.csproj|solutionrelative:chatapplication\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF276B9-0A23-4A5D-8711-D76F3EC69C89}|ChatApplication\\ChatApplication.csproj|d:\\gecbnv\\personalwork\\github\\chatapplication\\chatapplication\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF276B9-0A23-4A5D-8711-D76F3EC69C89}|ChatApplication\\ChatApplication.csproj|solutionrelative:chatapplication\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF276B9-0A23-4A5D-8711-D76F3EC69C89}|ChatApplication\\ChatApplication.csproj|d:\\gecbnv\\personalwork\\github\\chatapplication\\chatapplication\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5AF276B9-0A23-4A5D-8711-D76F3EC69C89}|ChatApplication\\ChatApplication.csproj|solutionrelative:chatapplication\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF276B9-0A23-4A5D-8711-D76F3EC69C89}|ChatApplication\\ChatApplication.csproj|d:\\gecbnv\\personalwork\\github\\chatapplication\\chatapplication\\views\\chat\\openchatroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AF276B9-0A23-4A5D-8711-D76F3EC69C89}|ChatApplication\\ChatApplication.csproj|solutionrelative:chatapplication\\views\\chat\\openchatroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF276B9-0A23-4A5D-8711-D76F3EC69C89}|ChatApplication\\ChatApplication.csproj|d:\\gecbnv\\personalwork\\github\\chatapplication\\chatapplication\\views\\chat\\opengroupchatroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AF276B9-0A23-4A5D-8711-D76F3EC69C89}|ChatApplication\\ChatApplication.csproj|solutionrelative:chatapplication\\views\\chat\\opengroupchatroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF276B9-0A23-4A5D-8711-D76F3EC69C89}|ChatApplication\\ChatApplication.csproj|d:\\gecbnv\\personalwork\\github\\chatapplication\\chatapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AF276B9-0A23-4A5D-8711-D76F3EC69C89}|ChatApplication\\ChatApplication.csproj|solutionrelative:chatapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF276B9-0A23-4A5D-8711-D76F3EC69C89}|ChatApplication\\ChatApplication.csproj|d:\\gecbnv\\personalwork\\github\\chatapplication\\chatapplication\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AF276B9-0A23-4A5D-8711-D76F3EC69C89}|ChatApplication\\ChatApplication.csproj|solutionrelative:chatapplication\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF276B9-0A23-4A5D-8711-D76F3EC69C89}|ChatApplication\\ChatApplication.csproj|d:\\gecbnv\\personalwork\\github\\chatapplication\\chatapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AF276B9-0A23-4A5D-8711-D76F3EC69C89}|ChatApplication\\ChatApplication.csproj|solutionrelative:chatapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF276B9-0A23-4A5D-8711-D76F3EC69C89}|ChatApplication\\ChatApplication.csproj|d:\\gecbnv\\personalwork\\github\\chatapplication\\chatapplication\\repositories\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF276B9-0A23-4A5D-8711-D76F3EC69C89}|ChatApplication\\ChatApplication.csproj|solutionrelative:chatapplication\\repositories\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF276B9-0A23-4A5D-8711-D76F3EC69C89}|ChatApplication\\ChatApplication.csproj|d:\\gecbnv\\personalwork\\github\\chatapplication\\chatapplication\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5AF276B9-0A23-4A5D-8711-D76F3EC69C89}|ChatApplication\\ChatApplication.csproj|solutionrelative:chatapplication\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF276B9-0A23-4A5D-8711-D76F3EC69C89}|ChatApplication\\ChatApplication.csproj|d:\\gecbnv\\personalwork\\github\\chatapplication\\chatapplication\\repositories\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF276B9-0A23-4A5D-8711-D76F3EC69C89}|ChatApplication\\ChatApplication.csproj|solutionrelative:chatapplication\\repositories\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF276B9-0A23-4A5D-8711-D76F3EC69C89}|ChatApplication\\ChatApplication.csproj|d:\\gecbnv\\personalwork\\github\\chatapplication\\chatapplication\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF276B9-0A23-4A5D-8711-D76F3EC69C89}|ChatApplication\\ChatApplication.csproj|solutionrelative:chatapplication\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF276B9-0A23-4A5D-8711-D76F3EC69C89}|ChatApplication\\ChatApplication.csproj|d:\\gecbnv\\personalwork\\github\\chatapplication\\chatapplication\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF276B9-0A23-4A5D-8711-D76F3EC69C89}|ChatApplication\\ChatApplication.csproj|solutionrelative:chatapplication\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 273,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ChatApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ChatApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAACbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T00:17:04.337Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "ChatApplication\\Controllers\\ChatController.cs",
+              "ToolTip": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "ChatApplication\\Controllers\\ChatController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:59:01.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\Services\\MessageService.cs",
+              "RelativeDocumentMoniker": "ChatApplication\\Services\\MessageService.cs",
+              "ToolTip": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\Services\\MessageService.cs",
+              "RelativeToolTip": "ChatApplication\\Services\\MessageService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:09:55.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\Services\\ChatService.cs",
+              "RelativeDocumentMoniker": "ChatApplication\\Services\\ChatService.cs",
+              "ToolTip": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\Services\\ChatService.cs",
+              "RelativeToolTip": "ChatApplication\\Services\\ChatService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T11:30:01.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "chat.js",
+              "DocumentMoniker": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\js\\chat.js",
+              "RelativeDocumentMoniker": "ChatApplication\\wwwroot\\js\\chat.js",
+              "ToolTip": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\js\\chat.js",
+              "RelativeToolTip": "ChatApplication\\wwwroot\\js\\chat.js",
+              "ViewState": "AQIAALgAAAAAAAAAAAAAANoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-23T17:58:25.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "ChatApplication\\wwwroot\\css\\style.css",
+              "ToolTip": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "ChatApplication\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAwJgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-09T11:43:53.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "ChatApplication\\Hubs\\ChatHub.cs",
+              "ToolTip": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "ChatApplication\\Hubs\\ChatHub.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAnwKIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T11:46:11.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChatApplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ChatApplication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T14:17:29.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMessageRepository.cs",
+              "DocumentMoniker": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\Repositories\\IMessageRepository.cs",
+              "RelativeDocumentMoniker": "ChatApplication\\Repositories\\IMessageRepository.cs",
+              "ToolTip": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\Repositories\\IMessageRepository.cs",
+              "RelativeToolTip": "ChatApplication\\Repositories\\IMessageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:05:06.84Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 123,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OpenChatRoom.cshtml",
+              "DocumentMoniker": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\Views\\Chat\\OpenChatRoom.cshtml",
+              "RelativeDocumentMoniker": "ChatApplication\\Views\\Chat\\OpenChatRoom.cshtml",
+              "ToolTip": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\Views\\Chat\\OpenChatRoom.cshtml",
+              "RelativeToolTip": "ChatApplication\\Views\\Chat\\OpenChatRoom.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T01:21:03.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChatApplication\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "ChatApplication\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T15:40:10.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Message.cs",
+              "DocumentMoniker": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "ChatApplication\\Models\\Message.cs",
+              "ToolTip": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\Models\\Message.cs",
+              "RelativeToolTip": "ChatApplication\\Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T12:13:10.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OpenGroupChatRoom.cshtml",
+              "DocumentMoniker": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\Views\\Chat\\OpenGroupChatRoom.cshtml",
+              "RelativeDocumentMoniker": "ChatApplication\\Views\\Chat\\OpenGroupChatRoom.cshtml",
+              "ToolTip": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\Views\\Chat\\OpenGroupChatRoom.cshtml",
+              "RelativeToolTip": "ChatApplication\\Views\\Chat\\OpenGroupChatRoom.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T00:47:55.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MessageRepository.cs",
+              "DocumentMoniker": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\Repositories\\MessageRepository.cs",
+              "RelativeDocumentMoniker": "ChatApplication\\Repositories\\MessageRepository.cs",
+              "ToolTip": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\Repositories\\MessageRepository.cs",
+              "RelativeToolTip": "ChatApplication\\Repositories\\MessageRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T19:02:58.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

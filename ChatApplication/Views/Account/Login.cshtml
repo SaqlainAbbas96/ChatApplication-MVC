@@ -1,0 +1,74 @@
+﻿@model ChatApplication.DTOs.LoginDTO
+
+<h3 id="clientName"
+    style="text-align:center;
+        font-weight:bold">
+    Good to see you! Login
+</h3>
+
+<div style="text-align:center;>
+
+    @using (Html.BeginForm("Login", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+    {
+    @Html.AntiForgeryToken()
+    <div class="form-group">
+        <label>Email</label>
+        @Html.TextBoxFor(model => model.email, new { @class = "form-control", type = "email", @style = "width: 20%" })
+        @Html.ValidationMessageFor(model => model.email)
+    </div>
+    <div class="form-group">
+        <label>Password</label>
+        @Html.PasswordFor(model => model.password, new { @class = "form-control", @style = "width: 20%" })
+        @Html.ValidationMessageFor(model => model.password)
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Login</button>
+    }
+</div>
+
+
+<!-- Sign In -->
+<div class="techwave_fn_sign">
+    @using (Html.BeginForm("Login", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="sign__content">
+            <h1 class="logo">Designed by Frenify</h1>
+            <div class="login">
+                <div class="form__content">
+                    <div class="form__title">Sign In</div>
+                    <div class="form__username">
+                        <label for="user_login">Username or Email</label>
+                        @Html.TextBoxFor(model => model.email, new { @class = "form-control", type = "email" })
+                        @Html.ValidationMessageFor(model => model.email)
+                    </div>
+                    <div class="form__pass">
+                        <div class="pass_lab">
+                            <label for="user_password">Password</label>
+                         </div>
+                        @Html.PasswordFor(model => model.password, new { @class = "form-control"})
+                        @Html.ValidationMessageFor(model => model.password)
+                    </div>
+                    <div class="form__submit">
+                        <label class="fn__submit">
+                            <input type="submit" name="submit" value="Sign In">
+                        </label>
+                    </div>
+                    @* <div class="form__alternative">
+                        <div class="fn__lined_text">
+                            <div class="line"></div>
+                            <div class="text">Or</div>
+                            <div class="line"></div>
+                        </div>
+                        <a href="#" class="techwave_fn_button"><span>Sign in with Google</span></a>
+                    </div> *@
+                </div>
+            </div>
+            @* <div class="sign__desc">
+        <p>Not a member? <a href="sign-up.html">Sign Up</a></p>
+        </div> *@
+        </div>
+    }
+</div>
+<!-- !Sign In -->

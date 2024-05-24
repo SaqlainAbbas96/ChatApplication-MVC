@@ -1,0 +1,121 @@
+﻿@model IEnumerable<ChatApplication.Viewmodels.MessageViewModelDTO>
+
+
+<h3 id="clientName"
+    style="
+        text-align:center;
+        font-weight:bold;
+        color: #44007a" ">
+    Hello! Welcome to the Chat Room of @ViewBag.ClientName
+</h3>
+
+@* @{
+    var clientConnectionId = ViewBag.ClientId;
+} *@
+
+<div><span id="connectionId" hidden /></div>
+
+@{
+    var username = ViewBag.Username as string;
+    var client = ViewBag.ClientName as string;
+    var connectionId = ViewBag.ConnectionId;
+}
+
+@* @foreach (var item in Model)
+{
+    <p>@item.senderName</p>
+    <p>@item.content</p>
+} *@
+
+<div class="container">
+    <div class="chat__list">
+        <div class="chat__item" id="chat2">
+            @foreach (var item in Model)
+            {
+                <div class="chat__box your__chat">
+                    <div class="author" id=""><span style="color: black;font-weight: bold;">@item.senderName</span></div>
+                    <div class="chat" id="">
+                        <p>@item.content</p>
+                    </div>
+                </div>
+                @* <div class="chat__box bot__chat">
+                    <div class="author" id=""><span>@item.receiverName</span></div>
+                    <div class="chat" id="">
+                        <p>@item.content</p>
+                    </div>
+                </div> *@
+            }
+        </div>
+    </div>
+</div>
+@*
+<ul id="messages"></ul> *@
+
+<div class="container">
+    <div class="chat__list">
+
+        <div id="chat0" class="chat__item"></div>
+
+        <div class="chat__item active" id="chat1">
+
+            @* <div class="chat__box your__chat">
+            <div class="author" id="myusername"><span></span></div>
+            <div class="chat" id="mymessages">
+            <p></p>
+            </div>
+            </div>
+            <div class="chat__box bot__chat">
+            <div class="author" id="client"><span></span></div>
+            <div class="chat" id="messages">
+            <p></p>
+            </div>
+            </div> *@
+
+
+        </div>
+
+        <div class="chat__item" id="chat2"></div>
+
+        <div class="chat__item" id="chat3"></div>
+
+        <div class="chat__item" id="chat4"></div>
+
+    </div>
+</div>
+
+
+<div class="chat__comment">
+    <div class="container">
+        <div class="fn__chat_comment">
+            <div class="new__chat">
+                @* <p>Ask it questions, engage in discussions, or simply enjoy a friendly chat.</p> *@
+            </div>
+            <textarea rows="1" class="fn__hidden_textarea" tabindex="-1"></textarea>
+            @* <textarea rows="1" placeholder="Send a message..." id="fn__chat_textarea"></textarea> *@
+            @* <button><img src="svg/enter.svg" alt="" class="fn__svg"></button> *@
+
+            <input type="text" id="userInput" placeholder="User" value="@username" readonly hidden />
+            @* <input type="text" id="messageInput" placeholder="Send a message..." /> *@
+            <textarea rows="1" placeholder="Send a message..." id="messageInput"
+                      style="margin-top: 32%;"></textarea>
+
+            @*             <input type="button" id="sendToUser" value="Send" /> *@
+            <button id="sendToUser">
+                <img src="~/svg/enter.svg" alt="" class="fn__svg">
+            </button>
+
+            <button id="sendButton" hidden>
+                <img src="~/svg/enter.svg" alt="" class="fn__svg">
+            </button>
+
+        </div>
+    </div>
+</div>
+
+
+
+@* <input type="text" id="receiverId" /> *@
+@* <input type="text" id="receiverId" value="@clientConnectionId" readonly /> *@
+
+@* <input type="button" id="sendButton" value="Send All" />
+<input type="button" id="sendToUser" value="Send" /> *@

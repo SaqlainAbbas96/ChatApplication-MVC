@@ -1,0 +1,441 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ChatApplication.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ChatApplication.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\js\\chat.js",
+      "PackagePath": "staticwebassets\\js\\chat.js"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\arrow.svg",
+      "PackagePath": "staticwebassets\\svg\\arrow.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\audio.svg",
+      "PackagePath": "staticwebassets\\svg\\audio.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\bell.svg",
+      "PackagePath": "staticwebassets\\svg\\bell.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\billing.svg",
+      "PackagePath": "staticwebassets\\svg\\billing.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\bookmark.svg",
+      "PackagePath": "staticwebassets\\svg\\bookmark.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\bookmarked.svg",
+      "PackagePath": "staticwebassets\\svg\\bookmarked.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\chat.svg",
+      "PackagePath": "staticwebassets\\svg\\chat.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\check.svg",
+      "PackagePath": "staticwebassets\\svg\\check.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\close.svg",
+      "PackagePath": "staticwebassets\\svg\\close.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\community.svg",
+      "PackagePath": "staticwebassets\\svg\\community.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\cube.svg",
+      "PackagePath": "staticwebassets\\svg\\cube.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\dollar.svg",
+      "PackagePath": "staticwebassets\\svg\\dollar.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\download.svg",
+      "PackagePath": "staticwebassets\\svg\\download.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\enter.svg",
+      "PackagePath": "staticwebassets\\svg\\enter.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\envelope.svg",
+      "PackagePath": "staticwebassets\\svg\\envelope.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\filter.svg",
+      "PackagePath": "staticwebassets\\svg\\filter.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\fullscreen.svg",
+      "PackagePath": "staticwebassets\\svg\\fullscreen.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\home.svg",
+      "PackagePath": "staticwebassets\\svg\\home.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\image.svg",
+      "PackagePath": "staticwebassets\\svg\\image.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\info.svg",
+      "PackagePath": "staticwebassets\\svg\\info.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\language.svg",
+      "PackagePath": "staticwebassets\\svg\\language.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\like-full.svg",
+      "PackagePath": "staticwebassets\\svg\\like-full.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\like.svg",
+      "PackagePath": "staticwebassets\\svg\\like.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\logout.svg",
+      "PackagePath": "staticwebassets\\svg\\logout.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\moon.svg",
+      "PackagePath": "staticwebassets\\svg\\moon.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\new.svg",
+      "PackagePath": "staticwebassets\\svg\\new.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\option.svg",
+      "PackagePath": "staticwebassets\\svg\\option.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\person.svg",
+      "PackagePath": "staticwebassets\\svg\\person.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\question.svg",
+      "PackagePath": "staticwebassets\\svg\\question.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\regenerate.svg",
+      "PackagePath": "staticwebassets\\svg\\regenerate.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\search.svg",
+      "PackagePath": "staticwebassets\\svg\\search.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\setting.svg",
+      "PackagePath": "staticwebassets\\svg\\setting.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\share.svg",
+      "PackagePath": "staticwebassets\\svg\\share.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\smallscreen.svg",
+      "PackagePath": "staticwebassets\\svg\\smallscreen.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\sun.svg",
+      "PackagePath": "staticwebassets\\svg\\sun.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\thunder.svg",
+      "PackagePath": "staticwebassets\\svg\\thunder.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\trash.svg",
+      "PackagePath": "staticwebassets\\svg\\trash.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\upload.svg",
+      "PackagePath": "staticwebassets\\svg\\upload.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\upscale.svg",
+      "PackagePath": "staticwebassets\\svg\\upscale.svg"
+    },
+    {
+      "Id": "D:\\GecBnv\\PersonalWork\\Github\\ChatApplication\\ChatApplication\\wwwroot\\svg\\video.svg",
+      "PackagePath": "staticwebassets\\svg\\video.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ChatApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ChatApplication.props",
+      "PackagePath": "build\\ChatApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ChatApplication.props",
+      "PackagePath": "buildMultiTargeting\\ChatApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ChatApplication.props",
+      "PackagePath": "buildTransitive\\ChatApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

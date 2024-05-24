@@ -1,0 +1,148 @@
+﻿@model IEnumerable<ChatApplication.Viewmodels.UserViewModelDTO>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+@* <p class="btn btn-sm">
+    @Html.ActionLink("Add", "AddCategory", "Category", "", new { @class = "btn btn-sm btn-primary" })
+</p> *@
+@{
+    var username = ViewBag.Username;
+    var userId = ViewBag.UserId;
+}
+
+
+<div class="">
+
+    <h2 style="
+        text-align:center;
+        font-weight:bold;
+        color: #44007a;
+        margin-top: 6%;">
+        Users
+    </h2>
+
+    <div class="row" style="margin-top: 4%;">
+
+        @foreach (var item in Model)
+        {
+            @*  <li>@item.username | @Html.ActionLink("Open Chat", "OpenChatRoom", "Chat",
+        new { userId = item.userId }, new { @class = "btn btn-sm btn-dark" })
+        </li> *@
+
+            <div class="col-md-6">
+                <p style="text-align:right;font-weight: bold;">
+                    @item.username
+                    @*  <a class="btn btn-sm btn-dark"
+                onclick="Connect('@username', event)">Connect</a> *@
+
+                </p>
+            </div>
+            <div class="col-md-6">
+                <p>
+                    @Html.ActionLink("Open Chat", "OpenChatRoom", "Chat",
+                             new { userId = item.userId }, new { @class = "btn", @style="background-color: #44007a; color: #fff; border-color: #44007a;" })
+                </p>
+            </div>
+        }
+
+        <div class="col-md-6">
+            <p style="text-align:right;font-weight: bold;">
+                  Group
+            </p>
+        </div>
+        <div class="col-md-6">
+            <p>
+                @Html.ActionLink("Open Chat", "OpenGroupChatRoom", "Chat",
+                         new { userId = @userId }, new { @class = "btn btn-primary", @style = "background-color: #44007a; color: #fff; border-color: #44007a;" })
+            </p>
+        </div>
+    </div>
+</div>
+
+<script>
+
+    function OpenChatroom(userId) {
+        // Make AJAX call to the backend method and include the connection ID in the data parameter
+        $.ajax({
+            url: '/api/Chat/OpenChatRoom',
+            data: { userId: userId }, //connectionId: connectionId, Include the connection ID in the data parameter
+            method: 'GET',
+            success: function (response) {
+                // Handle the success response from the backend method
+                console.log('Backend method call successful');
+            },
+            error: function (xhr, status, error) {
+                // Handle the error response from the backend method
+                console.error('Backend method call failed:', error);
+            }
+        });
+    }
+
+    function Connect(username, event) {
+        // Invoke GetUsernameAsync method on the SignalR connection
+        connection.invoke("GetUsernameAsync", username)
+            .then(function (connectionId) {
+                console.log("Last generated connection ID:", connectionId);
+            })
+            .catch(function (err) {
+                console.error(err.toString());
+            });
+
+        // Prevent the default action of the link (navigation)
+        //event.preventDefault();
+
+        // $.ajax({
+        //     url: '/api/Chat/OpenChatRoom',
+        //     data: { userId: userId, connectionId: connectionId },
+        //     method: 'GET',
+        //     success: function (response) {
+        //         // Handle the success response from the backend method
+        //         console.log('Backend method call successful');
+        //     },
+        //     error: function (xhr, status, error) {
+        //         // Handle the error response from the backend method
+        //         console.error('Backend method call failed:', error);
+        //     }
+        // });
+
+    }
+</script>
+@* <table class="table">
+    <thead>
+        <tr>
+            <th>
+                Category Name
+            </th>
+            <th>
+                Description
+            </th>
+            <th>
+                Status
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.categoryName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.isActive)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "UpdateCategory", new { id = item.categoryId }, new { @class = "btn btn-sm btn-dark" })
+                    @Html.ActionLink("Delete", "DeleteCategory", new { id = item.categoryId }, new { @class = "btn btn-sm btn-danger" })
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table> *@
